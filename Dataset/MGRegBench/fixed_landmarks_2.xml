@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations>
+<image id="1" name="6f64793857feb5d0-2.png" width="2560" height="3328">
+<points label="validation" source="manual" occluded="0" points="1495.86,1790.84" z_order="0">
+<attribute name="id">5</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1653.67,2198.61" z_order="0">
+<attribute name="id">12</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1762.28,2526.90" z_order="0">
+<attribute name="id">1</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1975.06,1059.25" z_order="0">
+<attribute name="id">4</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2332.26,525.82" z_order="0">
+<attribute name="id">7</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2091.34,447.41" z_order="0">
+<attribute name="id">10</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2081.95,8.48" z_order="0">
+<attribute name="id">9</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2400.91,286.36" z_order="0">
+<attribute name="id">8</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2162.24,1422.93" z_order="0">
+<attribute name="id">6</attribute>
+</points>
+</image>
+<image id="3" name="6f64793857feb5d0-4.png" width="2560" height="3328">
+<points label="validation" source="manual" occluded="0" points="2535.13,1772.75" z_order="0">
+<attribute name="id">10</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2526.43,1957.53" z_order="0">
+<attribute name="id">9</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1506.42,1909.78" z_order="0">
+<attribute name="id">7</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1783.20,1655.46" z_order="0">
+<attribute name="id">5</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1695.41,1548.26" z_order="0">
+<attribute name="id">6</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2154.07,1290.77" z_order="0">
+<attribute name="id">4</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1861.40,992.90" z_order="0">
+<attribute name="id">11</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2385.59,1077.40" z_order="0">
+<attribute name="id">12</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2480.21,875.79" z_order="0">
+<attribute name="id">3</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="2529.99,1013.25" z_order="0">
+<attribute name="id">1</attribute>
+</points>
+</image>
+
+<image id="16" name="10188-1.png" width="3328" height="4096">
+<points label="validation" source="manual" occluded="0" points="945.90,2604.90" z_order="0">
+<attribute name="id">12</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1305.00,2132.02" z_order="0">
+<attribute name="id">7</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1135.65,1086.51" z_order="0">
+<attribute name="id">8</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1456.72,1581.15" z_order="0">
+<attribute name="id">9</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="165.96,1209.16" z_order="0">
+<attribute name="id">10</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="318.58,1171.31" z_order="0">
+<attribute name="id">5</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="546.66,3647.37" z_order="0">
+<attribute name="id">3</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1364.62,3245.93" z_order="0">
+<attribute name="id">1</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1044.22,3186.56" z_order="0">
+<attribute name="id">6</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1459.20,2597.60" z_order="0">
+<attribute name="id">11</attribute>
+</points>
+</image>
+
+<image id="19" name="15506-1.png" width="3328" height="4096">
+<points label="validation" source="manual" occluded="0" points="1466.63,1642.70" z_order="0">
+<attribute name="id">10</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="735.34,456.19" z_order="0">
+<attribute name="id">9</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1419.68,1118.41" z_order="0">
+<attribute name="id">4</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="737.39,1529.39" z_order="0">
+<attribute name="id">5</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="742.46,1577.88" z_order="0">
+<attribute name="id">7</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="642.86,2490.86" z_order="0">
+<attribute name="id">2</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="359.96,2148.54" z_order="0">
+<attribute name="id">13</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="809.83,3334.98" z_order="0">
+<attribute name="id">8</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1788.23,2008.82" z_order="0">
+<attribute name="id">11</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1883.10,2164.44" z_order="0">
+<attribute name="id">1</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="145.40,879.77" z_order="0">
+<attribute name="id">14</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1674.25,2551.29" z_order="0">
+<attribute name="id">3</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1170.83,1898.00" z_order="0">
+<attribute name="id">6</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1392.30,2030.70" z_order="0">
+<attribute name="id">12</attribute>
+</points>
+</image>
+
+<image id="50" name="BC003261-1.png" width="2816" height="3584">
+<points label="validation" source="manual" occluded="0" points="1168.99,1643.42" z_order="0">
+<attribute name="id">5</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="790.35,1351.77" z_order="0">
+<attribute name="id">4</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="681.10,1273.60" z_order="0">
+<attribute name="id">7</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="731.10,1192.70" z_order="0">
+<attribute name="id">10</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="506.80,2623.60" z_order="0">
+<attribute name="id">6</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="721.50,2548.10" z_order="0">
+<attribute name="id">3</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="118.50,2507.30" z_order="0">
+<attribute name="id">9</attribute>
+</points>
+</image>
+
+<image id="52" name="BC003261-3.png" width="2816" height="3584">
+<points label="validation" source="manual" occluded="0" points="1172.68,2247.96" z_order="0">
+<attribute name="id">1</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="480.11,2727.93" z_order="0">
+<attribute name="id">2</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="922.70,2527.49" z_order="0">
+<attribute name="id">3</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="440.10,805.42" z_order="0">
+<attribute name="id">5</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="400.40,1190.46" z_order="0">
+<attribute name="id">8</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="1017.90,1582.10" z_order="0">
+<attribute name="id">6</attribute>
+</points>
+<points label="validation" source="manual" occluded="0" points="295.20,1923.20" z_order="0">
+<attribute name="id">7</attribute>
+</points>
+</image>
+</annotations>

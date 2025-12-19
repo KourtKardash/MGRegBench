@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations>
+  <image id="1" name="6f64793857feb5d0-2.png" width="2560" height="3328">
+    <points label="annotation" source="manual" occluded="0" points="1791.92,2814.80" z_order="0">
+      <attribute name="id">1</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1836.08,1368.38" z_order="0">
+      <attribute name="id">4</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1472.16,2247.64" z_order="0">
+      <attribute name="id">5</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="2051.57,1679.50" z_order="0">
+      <attribute name="id">6</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="2137.54,989.11" z_order="0">
+      <attribute name="id">7</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="2116.32,614.97" z_order="0">
+      <attribute name="id">8</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1771.25,448.68" z_order="0">
+      <attribute name="id">9</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1872.04,784.75" z_order="0">
+      <attribute name="id">10</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1648.04,2465.73" z_order="0">
+      <attribute name="id">12</attribute>
+    </points>
+  </image>
+  <image id="3" name="6f64793857feb5d0-4.png" width="2560" height="3328">
+    <points label="annotation" source="manual" occluded="0" points="2488.70,1250.53" z_order="0">
+      <attribute name="id">1</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="2450.27,1117.56" z_order="0">
+      <attribute name="id">3</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="2047.27,1508.53" z_order="0">
+      <attribute name="id">4</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1717.83,1887.67" z_order="0">
+      <attribute name="id">5</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1668.68,1778.56" z_order="0">
+      <attribute name="id">6</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1496.21,2089.00" z_order="0">
+      <attribute name="id">7</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="2421.37,2150.35" z_order="0">
+      <attribute name="id">9</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="2373.93,1972.05" z_order="0">
+      <attribute name="id">10</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1848.22,1227.11" z_order="0">
+      <attribute name="id">11</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="2294.02,1301.06" z_order="0">
+      <attribute name="id">12</attribute>
+    </points>
+  </image>
+  <image id="16" name="10188-1.png" width="3328" height="4096">
+    <points label="annotation" source="manual" occluded="0" points="1336.14,3188.54" z_order="0">
+      <attribute name="id">1</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="508.34,3593.15" z_order="0">
+      <attribute name="id">3</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="204.96,1109.06" z_order="0">
+      <attribute name="id">5</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1044.49,3131.15" z_order="0">
+      <attribute name="id">6</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1211.68,2076.98" z_order="0">
+      <attribute name="id">7</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="989.71,1011.34" z_order="0">
+      <attribute name="id">8</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1344.23,1531.32" z_order="0">
+      <attribute name="id">9</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="74.48,1098.53" z_order="0">
+      <attribute name="id">10</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1413.35,2536.79" z_order="0">
+      <attribute name="id">11</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="925.08,2524.33" z_order="0">
+      <attribute name="id">12</attribute>
+    </points>
+  </image>
+
+  <image id="19" name="15506-1.png" width="3328" height="4096">
+    <points label="annotation" source="manual" occluded="0" points="2003.85,2325.69" z_order="0">
+      <attribute name="id">1</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="667.62,2407.13" z_order="0">
+      <attribute name="id">2</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1794.40,2647.41" z_order="0">
+      <attribute name="id">3</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1694.86,1250.06" z_order="0">
+      <attribute name="id">4</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="939.68,1702.71" z_order="0">
+      <attribute name="id">5</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1385.66,2020.93" z_order="0">
+      <attribute name="id">6</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="937.80,1745.05" z_order="0">
+      <attribute name="id">7</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="889.57,3217.88" z_order="0">
+      <attribute name="id">8</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1274.25,512.98" z_order="0">
+      <attribute name="id">9</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1689.74,1890.96" z_order="0">
+      <attribute name="id">10</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1953.10,2156.49" z_order="0">
+      <attribute name="id">11</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="1579.76,2157.77" z_order="0">
+      <attribute name="id">12</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="425.46,2076.30" z_order="0">
+      <attribute name="id">13</attribute>
+    </points>
+    <points label="annotation" source="manual" occluded="0" points="410.17,746.72" z_order="0">
+      <attribute name="id">14</attribute>
+    </points>
+  </image>
+  <image id="50" name="BC003261-1.png" width="2816" height="3584">
+<points label="validaton" source="manual" occluded="0" points="774.94,2496.23" z_order="0">
+<attribute name="id">3</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="1008.94,1473.27" z_order="0">
+<attribute name="id">4</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="1257.66,1679.19" z_order="0">
+<attribute name="id">5</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="532.50,2551.32" z_order="0">
+<attribute name="id">6</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="877.86,1346.10" z_order="0">
+<attribute name="id">7</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="153.61,2378.51" z_order="0">
+<attribute name="id">9</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="943.90,1256.00" z_order="0">
+<attribute name="id">10</attribute>
+</points>
+</image>
+<image id="52" name="BC003261-3.png" width="2816" height="3584">
+<points label="validaton" source="manual" occluded="0" points="1111.01,2620.38" z_order="0">
+<attribute name="id">1</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="507.27,2957.60" z_order="0">
+<attribute name="id">2</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="841.62,2773.87" z_order="0">
+<attribute name="id">3</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="591.61,1087.76" z_order="0">
+<attribute name="id">5</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="1046.09,1876.23" z_order="0">
+<attribute name="id">6</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="285.40,2122.68" z_order="0">
+<attribute name="id">7</attribute>
+</points>
+<points label="validaton" source="manual" occluded="0" points="476.10,1404.05" z_order="0">
+<attribute name="id">8</attribute>
+</points>
+</image>
+</annotations>

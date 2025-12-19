@@ -1,0 +1,13 @@
+File Path,Patient ID,Patient age,Laterality,View,Study Date,Density,Bi-Rads,cancer,biopsy,invasive
+Dataset/MGRegBench/train/KAU-BCMD/BC003301-3/2018_BC003301_ CC_L.jpg,BC003301,43.0,L,CC,2018-02-14,2.0,1.0,,,
+Dataset/MGRegBench/train/KAU-BCMD/BC003301-3/2019_BC003301_ CC_L.jpg,BC003301,44.0,L,CC,2019-01-22,2.0,1.0,,,
+Dataset/MGRegBench/train/KAU-BCMD/BC003301-1/2018_BC003301_ MLO_L.jpg,BC003301,43.0,L,MLO,2018-02-14,2.0,1.0,,,
+Dataset/MGRegBench/train/KAU-BCMD/BC003301-1/2019_BC003301_ MLO_L.jpg,BC003301,44.0,L,MLO,2019-01-22,2.0,1.0,,,
+Dataset/MGRegBench/train/RSNA/31477-1/840662575.png,31477,49.0,L,MLO,,3.0,1.0,0.0,0.0,0.0
+Dataset/MGRegBench/train/RSNA/31477-1/1844388794.png,31477,49.0,L,MLO,,3.0,1.0,0.0,0.0,0.0
+Dataset/MGRegBench/train/RSNA/30846-2/624233300.png,30846,66.0,R,MLO,,,,0.0,0.0,0.0
+Dataset/MGRegBench/train/RSNA/30846-2/1296011847.png,30846,66.0,R,MLO,,,,0.0,0.0,0.0
+Dataset/MGRegBench/train/INBreast/b03f1dd34eb3c55f-1/2010_b03f1dd34eb3c55f_MG_L_ML_ANON.png,b03f1dd34eb3c55f,,L,MLO,201001,2.0,2.0,,,
+Dataset/MGRegBench/train/INBreast/b03f1dd34eb3c55f-2/2010_b03f1dd34eb3c55f_MG_L_CC_ANON.png,b03f1dd34eb3c55f,,L,CC,201001,2.0,2.0,,,
+Dataset/MGRegBench/train/INBreast/b03f1dd34eb3c55f-1/2008_b03f1dd34eb3c55f_MG_L_ML_ANON.png,b03f1dd34eb3c55f,,L,MLO,200802,2.0,2.0,,,
+Dataset/MGRegBench/train/INBreast/b03f1dd34eb3c55f-2/2008_b03f1dd34eb3c55f_MG_L_CC_ANON.png,b03f1dd34eb3c55f,,L,CC,200802,2.0,2.0,,,

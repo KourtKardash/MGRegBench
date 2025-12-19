@@ -1,0 +1,13 @@
+File Path,Patient ID,Patient age,Laterality,View,Study Date,Density,Bi-Rads,cancer,biopsy,invasive
+Dataset/MGRegBench/evaluation/INBreast/6f64793857feb5d0-2/2010_6f64793857feb5d0_MG_R_ML_ANON.png,6f64793857feb5d0,,R,MLO,201001,2.0,2,,,
+Dataset/MGRegBench/evaluation/INBreast/6f64793857feb5d0-4/2010_6f64793857feb5d0_MG_R_CC_ANON.png,6f64793857feb5d0,,R,CC,201001,2.0,2,,,
+Dataset/MGRegBench/evaluation/INBreast/6f64793857feb5d0-2/2009_6f64793857feb5d0_MG_R_ML_ANON.png,6f64793857feb5d0,,R,MLO,200901,2.0,2,,,
+Dataset/MGRegBench/evaluation/INBreast/6f64793857feb5d0-4/2009_6f64793857feb5d0_MG_R_CC_ANON.png,6f64793857feb5d0,,R,CC,200901,2.0,2,,,
+Dataset/MGRegBench/evaluation/KAU-BCMD/BC003261-3/2016_BC003261_ CC_L.jpg,BC003261,46.0,L,CC,2017-04-05,3.0,1.0,,,
+Dataset/MGRegBench/evaluation/KAU-BCMD/BC003261-3/2014_BC003261_ CC_L.jpg,BC003261,44.0,L,CC,2016-12-26,3.0,1.0,,,
+Dataset/MGRegBench/evaluation/KAU-BCMD/BC003261-1/2016_BC003261_ MLO_L.jpg,BC003261,46.0,L,MLO,2017-04-05,3.0,1.0,,,
+Dataset/MGRegBench/evaluation/KAU-BCMD/BC003261-1/2014_BC003261_ MLO_L.jpg,BC003261,44.0,L,MLO,2016-12-26,3.0,1.0,,,
+Dataset/MGRegBench/evaluation/RSNA/10188-1/109667135.png,10188,40.0,L,CC,,3.0,,0.0,0.0,0.0
+Dataset/MGRegBench/evaluation/RSNA/10188-1/441197449.png,10188,40.0,L,CC,,3.0,,0.0,0.0,0.0
+Dataset/MGRegBench/evaluation/RSNA/15506-1/667878599.png,15506,69.0,L,MLO,,3.0,2,0.0,0.0,0.0
+Dataset/MGRegBench/evaluation/RSNA/15506-1/813076680.png,15506,69.0,L,MLO,,3.0,2,0.0,0.0,0.0
