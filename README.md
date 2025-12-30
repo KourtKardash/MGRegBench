@@ -2,6 +2,8 @@
 
 This repository provides the methods' implementation and dataset accompanying our paper: **MGRegBench: A Novel Benchmark Dataset with Anatomical Landmarks for Mammography Image Registration**.
 
+Preprint available at: https://arxiv.org/abs/2512.17605
+
 ## Introduction
 
 Robust and accurate registration of longitudinal mammograms is crucial for clinical tasks such as accurate tracking of lesions, monitoring tissue changes, and supporting radiologist decision-making. However, the field has long suffered from the lack of public, standardized benchmarks.  
